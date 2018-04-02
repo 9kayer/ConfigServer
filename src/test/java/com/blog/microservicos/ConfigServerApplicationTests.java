@@ -1,4 +1,4 @@
-package com.blog.microservi.os;
+package com.blog.microservicos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

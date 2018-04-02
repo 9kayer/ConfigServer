@@ -1,4 +1,4 @@
-package com.blog.microservi.os;
+package com.blog.microservicos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
